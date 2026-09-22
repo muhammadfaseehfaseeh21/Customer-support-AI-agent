@@ -1,0 +1,35 @@
+[
+  {
+    "customer_id": "CUST-1001",
+    "customer_name": "Amina Khan",
+    "contact_number": "+92-300-1234567",
+    "order_id": "ORD-88219",
+    "order_date": "2026-09-15",
+    "status": "In Transit",
+    "shopping_address": "House 45, Street 12, F-8/3, Islamabad, Pakistan",
+    "items": ["Wireless Headphones", "USB-C Fast Charger"],
+    "notes": "Package dispatched via Express Logistics. Delivery expected by Sept 24, 2026."
+  },
+  {
+    "customer_id": "CUST-1002",
+    "customer_name": "John Doe",
+    "contact_number": "+1-555-019-2834",
+    "order_id": "ORD-99304",
+    "order_date": "2026-09-18",
+    "status": "Delivered",
+    "shopping_address": "742 Evergreen Terrace, Springfield, OR, USA",
+    "items": ["Ergonomic Mechanical Keyboard"],
+    "notes": "Delivered at front porch on Sept 21, 2026."
+  },
+  {
+    "customer_id": "CUST-1003",
+    "customer_name": "Sarah Ahmed",
+    "contact_number": "+92-321-9876543",
+    "order_id": "ORD-77102",
+    "order_date": "2026-09-20",
+    "status": "Processing",
+    "shopping_address": "Apartment 4B, Falcon Complex, Gulberg III, Lahore, Pakistan",
+    "items": ["Smart Watch Series 5"],
+    "notes": "Order confirmed. Awaiting dispatch from warehouse."
+  }
+]
